@@ -24,6 +24,7 @@ Live link: https://mernfront-gipa.onrender.com/
     
 -> A 'Payment Successfull' toast notification is displayed once the user submits the form sucessfully.
 
+-> The data is then stored in the database.
 
 
 # The features that I can add to make it more advanced:
