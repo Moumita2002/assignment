@@ -45,5 +45,7 @@ open 'ER_Diagram.png' to see the ER-Diagram.
 
 -> Errors: if the fields are not filled properly
 
+![2023-12-23 (3)](https://github.com/Moumita2002/assignment/assets/102172188/30058774-8d74-4195-b0a6-9fb9d755ee44)
+
 
 
