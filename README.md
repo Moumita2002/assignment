@@ -48,4 +48,7 @@ open 'ER_Diagram.png' to see the ER-Diagram.
 ![2023-12-23 (3)](https://github.com/Moumita2002/assignment/assets/102172188/30058774-8d74-4195-b0a6-9fb9d755ee44)
 
 
+# ER Diagram:
+![ER_Diagram](https://github.com/Moumita2002/assignment/assets/102172188/e45e5a4a-1e4e-4049-a233-7069bdebe57a)
+
 
