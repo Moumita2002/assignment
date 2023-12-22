@@ -34,3 +34,9 @@ open 'ER_Diagram.png' to see the ER-Diagram.
 -> This project can be used in the real world if real-time payment method is added.
 
 -> Admin panel for monitoring.
+
+# Hosted Website Overview
+
+![2023-12-23](https://github.com/Moumita2002/assignment/assets/102172188/224def30-91b1-43a7-8dc0-738fc4a6c252)
+
+
