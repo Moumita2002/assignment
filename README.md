@@ -39,4 +39,11 @@ open 'ER_Diagram.png' to see the ER-Diagram.
 
 ![2023-12-23](https://github.com/Moumita2002/assignment/assets/102172188/224def30-91b1-43a7-8dc0-738fc4a6c252)
 
+-> After Successfull payment
+
+![2023-12-23 (1)](https://github.com/Moumita2002/assignment/assets/102172188/bf93a0d7-2d73-4b21-b006-c90ed73122b4)
+
+-> Errors: if the fields are not filled properly
+
+
 
