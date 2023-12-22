@@ -2,8 +2,6 @@
 # Check the website here:
 Live link: https://mernfront-gipa.onrender.com/
 
-open 'ER_Diagram.png' to see the ER-Diagram.
-
 # Explanation
 
 -> Used HTML, CSS, ReactJS for the frontend Part.
